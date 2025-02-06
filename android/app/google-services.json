@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "482473533223",
+    "firebase_url": "https://nearshopz-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nearshopz",
+    "storage_bucket": "nearshopz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482473533223:android:6a6c93182796241ea45302",
+        "android_client_info": {
+          "package_name": "com.nearshopz.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482473533223-6r4cra059cv80infpgqsl2cvj2inu9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoYTXReDM8pb8CxWypedhN70tPLeQrFfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482473533223-6r4cra059cv80infpgqsl2cvj2inu9k6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482473533223-3e731dqk8u5ol6fg22tm0dmhh1etqfat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nearshopz.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482473533223:android:d3a6152f4bf8ddfea45302",
+        "android_client_info": {
+          "package_name": "com.nearshopz.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482473533223-6r4cra059cv80infpgqsl2cvj2inu9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoYTXReDM8pb8CxWypedhN70tPLeQrFfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482473533223-6r4cra059cv80infpgqsl2cvj2inu9k6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482473533223-3e731dqk8u5ol6fg22tm0dmhh1etqfat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nearshopz.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482473533223:android:745123418e8aac19a45302",
+        "android_client_info": {
+          "package_name": "com.nearshopz.shopassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482473533223-6r4cra059cv80infpgqsl2cvj2inu9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoYTXReDM8pb8CxWypedhN70tPLeQrFfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482473533223-6r4cra059cv80infpgqsl2cvj2inu9k6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482473533223-3e731dqk8u5ol6fg22tm0dmhh1etqfat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nearshopz.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
